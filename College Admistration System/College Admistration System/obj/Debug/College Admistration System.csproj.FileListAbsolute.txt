@@ -1,0 +1,62 @@
+D:/College Admistration System/College Admistration System/bin/Debug/College Admistration System.exe.config
+D:/College Admistration System/College Admistration System/bin/Debug/College Admistration System.exe
+D:/College Admistration System/College Admistration System/bin/Debug/College Admistration System.pdb
+D:/College Admistration System/College Admistration System/obj/Debug/College Admistration System.csprojAssemblyReference.cache
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Academics.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Achievements.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.COURSE_DETAILS.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Faculty_homepage.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.FAC_PD.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Form1.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.homepage.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Noti.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.PD.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Properties.Resources.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Registration.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.STUDENT_DETAILS.resources
+D:/College Admistration System/College Admistration System/obj/Debug/College Admistration System.csproj.GenerateResource.cache
+D:/College Admistration System/College Admistration System/obj/Debug/College Admistration System.csproj.CoreCompileInputs.cache
+D:/College Admistration System/College Admistration System/obj/Debug/College Admistration System.exe
+D:/College Admistration System/College Admistration System/obj/Debug/College Admistration System.pdb
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College Admistration System.csprojResolveAssemblyReference.cache
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Academics.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Achievements.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.COURSE_DETAILS.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Faculty_homepage.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.FAC_PD.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Form1.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.homepage.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Noti.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.PD.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Properties.Resources.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.Registration.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College_Admistration_System.STUDENT_DETAILS.resources
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College Admistration System.csproj.GenerateResource.cache
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College Admistration System.csproj.CoreCompileInputs.cache
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College Admistration System.exe
+/Volumes/DISK_IMG/College Admistration System/College Admistration System/obj/Debug/College Admistration System.pdb
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\bin\Debug\College Admistration System.exe.config
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\bin\Debug\College Admistration System.exe
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\bin\Debug\College Admistration System.pdb
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College Admistration System.csprojAssemblyReference.cache
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Academics.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Achievements.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.COURSE_DETAILS.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Faculty_homepage.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.FAC_PD.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Form1.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.homepage.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Noti.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.PD.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Properties.Resources.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Registration.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.STUDENT_DETAILS.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College Admistration System.csproj.GenerateResource.cache
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College Admistration System.csproj.CoreCompileInputs.cache
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College Admistration System.exe
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College Admistration System.pdb
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College Admistration System.csproj.CopyComplete
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.Enroll_C.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.CD2.resources
+C:\Users\Obi-Wan\Desktop\dbs project\College Admistration System\College Admistration System\obj\Debug\College_Admistration_System.update.resources

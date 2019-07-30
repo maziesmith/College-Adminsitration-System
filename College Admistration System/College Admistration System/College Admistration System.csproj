@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D94BAD2-FD5D-4472-980A-B209207C7498}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>College_Admistration_System</RootNamespace>
+    <AssemblyName>College Admistration System</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Academics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Academics.Designer.cs">
+      <DependentUpon>Academics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achievements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Achievements.Designer.cs">
+      <DependentUpon>Achievements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CD2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CD2.Designer.cs">
+      <DependentUpon>CD2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_DETAILS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_DETAILS.Designer.cs">
+      <DependentUpon>COURSE_DETAILS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Enroll_C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enroll_C.Designer.cs">
+      <DependentUpon>Enroll_C.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty_homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty_homepage.Designer.cs">
+      <DependentUpon>Faculty_homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAC_PD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAC_PD.Designer.cs">
+      <DependentUpon>FAC_PD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="homepage.Designer.cs">
+      <DependentUpon>homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Noti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Noti.Designer.cs">
+      <DependentUpon>Noti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PD.Designer.cs">
+      <DependentUpon>PD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_DETAILS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_DETAILS.Designer.cs">
+      <DependentUpon>STUDENT_DETAILS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Academics.resx">
+      <DependentUpon>Academics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achievements.resx">
+      <DependentUpon>Achievements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CD2.resx">
+      <DependentUpon>CD2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_DETAILS.resx">
+      <DependentUpon>COURSE_DETAILS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enroll_C.resx">
+      <DependentUpon>Enroll_C.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty_homepage.resx">
+      <DependentUpon>Faculty_homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAC_PD.resx">
+      <DependentUpon>FAC_PD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homepage.resx">
+      <DependentUpon>homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Noti.resx">
+      <DependentUpon>Noti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PD.resx">
+      <DependentUpon>PD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_DETAILS.resx">
+      <DependentUpon>STUDENT_DETAILS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
